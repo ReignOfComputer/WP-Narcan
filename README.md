@@ -28,7 +28,7 @@ WP Narcan is licensed under the MIT License. See the LICENSE file in the project
 
 ## Support
 
-If you require assistance with recovering a WordPress site compromised by malware, I am available for hire. Contact me on Twitter: [@ReignOfComputer](https://twitter.com/ReignOfComputer).
+If you require assistance with recovering a WordPress site compromised by malware, I am available for hire. Contact me on X: [@ReignOfComputer](https://twitter.com/ReignOfComputer).
 
 ## Donations
 
